@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921971665560",
+    "firebase_url": "https://niki-fb91c.firebaseio.com",
+    "project_id": "niki-fb91c",
+    "storage_bucket": "niki-fb91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921971665560:android:ae249524f5266829",
+        "android_client_info": {
+          "package_name": "com.salam.niki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921971665560-d6hckn7scra9eigujevu410kvdquo66s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salam.niki",
+            "certificate_hash": "55d8c6137b413dd787b032596e91853309f3ab5f"
+          }
+        },
+        {
+          "client_id": "921971665560-v4pqllf8nqv5fcmgb6lhtlf09l6pmqtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYzFwi6216kVohH00RXV9XZbdfs8p0_yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921971665560-v4pqllf8nqv5fcmgb6lhtlf09l6pmqtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
